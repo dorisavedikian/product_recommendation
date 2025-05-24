@@ -97,10 +97,3 @@ python -m streamlit run rec_app.py
 Doris Avedikian  
 GitHub: [@dorisavedikian](https://github.com/dorisavedikian)
 
----
-
-## 🛠 Future Improvements
-
-- Use implicit feedback datasets (e.g., clicks, views)
-- Add popularity baseline comparisons
-- Explore hybrid (content + collaborative) recommendations
